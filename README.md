@@ -1,7 +1,9 @@
 # Bangalore Housing Price Prediction
 
 # Project Objectives :
-The objective of the project is to create a machine-learning model. We are doing supervised learning and our aim is to do predictive analysis to predict housing prices.
+> The objective of the project is to create a machine-learning model. We are doing supervised learning and our aim is to do predictive analysis to predict housing prices.
+> 
+> We have used Linear Regression, Decision Tree, Random Forest and XGBoost, AdaBoost, LightGBM, and CatBoost ML Algorithms to Predict Bangalore housing prices.
 
 # Data Collection :
 The dataset is obtained from Kaggle.
