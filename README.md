@@ -13,6 +13,7 @@ The analysis and model creation can be found in the .ipynb file.
 
 The main packages used are numpy, pandas, matplotlib, seaborn, and sklearn.
 
+### PFB is the different model and its accuracy. From the model results, we can conclude that CatBoost algorithm model performed the highest.
 
 1. Linear Regression: 79.02%
 2. Decision Tree: 76.1%
